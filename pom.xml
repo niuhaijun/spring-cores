@@ -24,6 +24,7 @@
     <module>spring-ioc</module>
     <module>spring-mvc</module>
     <module>spring-transaction</module>
+    <module>spring-4x</module>
   </modules>
 
   <properties>
